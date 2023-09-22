@@ -43,7 +43,8 @@
     "@stdlib/assert-is-uint8array": "^0.1.0",
     "@stdlib/cli-ctor": "^0.1.0",
     "@stdlib/constants-uint8-max": "^0.1.0",
-    "@stdlib/fs-read-file": "^0.1.0"
+    "@stdlib/fs-read-file": "^0.1.0",
+    "@stdlib/error-tools-fmtprodmsg": "^0.1.0"
   },
   "devDependencies": {
     "@stdlib/array-uint8": "^0.0.7",
